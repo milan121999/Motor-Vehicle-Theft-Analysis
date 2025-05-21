@@ -11,7 +11,7 @@ Motor vehicle theft remains a major urban crime concern, and understanding the �
 * Provide actionable insights for crime prevention and law enforcement resource allocation
 
 ## Dataset 
-The dataset included fields such as Time_Occurred, Time_Frame, ZIP, and Premise_Type for November and December of 2015 and 2016. The data was processed in Python using Pandas for aggregation, with visualizations built using Matplotlib and Seaborn to reveal trends across time and geography.
+The dataset was sourced from Kaggle’s Motor Vehicle Theft dataset for the city of Phoenix, covering incidents from November and December of 2015 and 2016. It includes fields such as Time_Occurred, Time_Frame, ZIP, and Premise_Type. Python (Pandas, NumPy, and Datetime) was used for data cleaning and transformation, while visualizations were created using Matplotlib and Seaborn to explore geographic and temporal trends.
 
 ## Python Libraries Used
 * Pandas – for data cleaning, grouping, and aggregating theft data by time, location, and premise type
